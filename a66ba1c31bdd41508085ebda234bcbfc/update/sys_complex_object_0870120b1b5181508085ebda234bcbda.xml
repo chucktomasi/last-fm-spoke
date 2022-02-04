@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD4470120b935181504f5cf94f8a949dda</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>a66ba1c31bdd41508085ebda234bcbfc</scope_name>
+        <serialized_content>{"FlowDesigner:FD4470120b935181504f5cf94f8a949dda":{"length":"Integer","length.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Length\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"64368127-9ed3-438e-89e7-13f789566868\"}"}},"FlowDesigner:FD4470120b935181504f5cf94f8a949dda.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"d92c30e4-cd13-40cd-8527-7a9191ec0587\",\"default_value\":\"\",\"label\":\"Answer\",\"mandatory\":\"false\",\"uiUniqueId\":\"8917b4bb-66e5-42f8-8c76-664f3d6aadbf\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD4470120b935181504f5cf94f8a949dda\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"935c6599-b292-414e-a3f6-08bcff3058f8\",\"hint\":null,\"uiType\":\"object\",\"order\":\"3\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2022-01-31 17:14:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0870120b1b5181508085ebda234bcbda</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD4470120b935181504f5cf94f8a949dda</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Last.fm Spoke" source="x_orb_lastfm_spoke">a66ba1c31bdd41508085ebda234bcbfc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Last.fm Spoke">a66ba1c31bdd41508085ebda234bcbfc</sys_scope>
+        <sys_update_name>sys_complex_object_0870120b1b5181508085ebda234bcbda</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2022-01-31 17:14:23</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

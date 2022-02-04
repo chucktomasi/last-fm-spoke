@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD31f982430b51815011ea20393d86b666</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>a66ba1c31bdd41508085ebda234bcbfc</scope_name>
+        <serialized_content>{"FlowDesigner:FD31f982430b51815011ea20393d86b666":{"$COCollectionField":[{"item":{"artist":"String","artist.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Artist\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"54278f5d-592f-41c6-a68e-de5b85eb4030\"}"},"match":"Integer","match.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Match\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\",\"uiUniqueId\":\"414055a0-4913-490c-8756-d2f5a21f68ec\"}"},"title":"String","title.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Title\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"631346d8-84da-456e-bb5f-7a82e3bca694\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"List\",\"mandatory\":\"false\",\"child_name\":\"item\",\"uiUniqueId\":\"24d238f6-4365-4627-bb20-8136684b93eb\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD31f982430b51815011ea20393d86b666\",\"child_label\":\"Item\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"2\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"4100b5e7-6353-4ddd-89b9-2ec75e6afab6\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD31f982430b51815011ea20393d86b666.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"List\",\"mandatory\":\"false\",\"child_name\":\"item\",\"uiUniqueId\":\"24d238f6-4365-4627-bb20-8136684b93eb\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD31f982430b51815011ea20393d86b666\",\"child_label\":\"Item\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"2\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"4100b5e7-6353-4ddd-89b9-2ec75e6afab6\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2022-01-31 16:46:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f1f982431b5181508085ebda234bcb66</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD31f982430b51815011ea20393d86b666</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Last.fm Spoke" source="x_orb_lastfm_spoke">a66ba1c31bdd41508085ebda234bcbfc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Last.fm Spoke">a66ba1c31bdd41508085ebda234bcbfc</sys_scope>
+        <sys_update_name>sys_complex_object_f1f982431b5181508085ebda234bcb66</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2022-01-31 16:46:07</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices/>
+        <description>Default limit of records returned. Useful for the getSimilar methods to avoid an extremely long list. (0 = get all records)</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_orb_lastfm_spoke.default_limit</name>
+        <read_roles/>
+        <suffix>default_limit</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2022-01-31 14:40:07</sys_created_on>
+        <sys_id>c1bc21471bdd41508085ebda234bcb8f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_orb_lastfm_spoke.default_limit</sys_name>
+        <sys_package display_value="Last.fm Spoke" source="x_orb_lastfm_spoke">a66ba1c31bdd41508085ebda234bcbfc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Last.fm Spoke">a66ba1c31bdd41508085ebda234bcbfc</sys_scope>
+        <sys_update_name>sys_properties_c1bc21471bdd41508085ebda234bcb8f</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2022-01-31 14:40:07</sys_updated_on>
+        <type>integer</type>
+        <value>10</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=c1bc21471bdd41508085ebda234bcb8f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Last.fm Spoke">a66ba1c31bdd41508085ebda234bcbfc</application>
+        <file_path/>
+        <instance_id>d34829d0db2e88d0b847ac44d49619b8</instance_id>
+        <instance_name>karaokedev</instance_name>
+        <name>sys_properties_c1bc21471bdd41508085ebda234bcb8f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>Default limit of records returned. Useful for the getSimilar methods to avoid an extremely long list. (0 = get all records)</description><ignore_cache>true</ignore_cache><is_private>false</is_private><name>x_orb_lastfm_spoke.default_limit</name><read_roles/><suffix>default_limit</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>chuck.tomasi</sys_created_by><sys_created_on>2022-01-31 14:40:07</sys_created_on><sys_id>c1bc21471bdd41508085ebda234bcb8f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_orb_lastfm_spoke.default_limit</sys_name><sys_package display_value="Last.fm Spoke" source="x_orb_lastfm_spoke">a66ba1c31bdd41508085ebda234bcbfc</sys_package><sys_policy/><sys_scope display_value="Last.fm Spoke">a66ba1c31bdd41508085ebda234bcbfc</sys_scope><sys_update_name>sys_properties_c1bc21471bdd41508085ebda234bcb8f</sys_update_name><sys_updated_by>chuck.tomasi</sys_updated_by><sys_updated_on>2022-01-31 14:40:07</sys_updated_on><type>integer</type><value>10</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=c1bc21471bdd41508085ebda234bcb8f"/></record_update>]]></payload>
+        <payload_hash>2064081836</payload_hash>
+        <record_name>x_orb_lastfm_spoke.default_limit</record_name>
+        <reverted_from/>
+        <source>626ba1c31bdd41508085ebda234bcbff</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2022-01-31 14:40:07</sys_created_on>
+        <sys_id>c02d2d071bdd41508085ebda234bcb09</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17eb0942b380000001</sys_recorded_at>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2022-01-31 14:40:07</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>0c2d2d0759dd4150cadf3725b2a57d08</update_guid>
+        <update_guid_history>0c2d2d0759dd4150cadf3725b2a57d08:2064081836</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2022-01-31 14:43:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>1bb5a90168ac48cbbd13d5b124746971</sys_id>
+        <sys_metadata>c1bc21471bdd41508085ebda234bcb8f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_orb_lastfm_spoke.default_limit</sys_name>
+        <sys_package display_value="Last.fm Spoke" source="x_orb_lastfm_spoke">a66ba1c31bdd41508085ebda234bcbfc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Last.fm Spoke">a66ba1c31bdd41508085ebda234bcbfc</sys_scope>
+        <sys_scope_delete display_value="">06df6e4c80d44c00808374cf47f10000</sys_scope_delete>
+        <sys_update_name>sys_properties_c1bc21471bdd41508085ebda234bcb8f</sys_update_name>
+        <sys_update_version display_value="sys_properties_c1bc21471bdd41508085ebda234bcb8f">c02d2d071bdd41508085ebda234bcb09</sys_update_version>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2022-01-31 14:43:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
